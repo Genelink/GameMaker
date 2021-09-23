@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Rm_Card_Select","path":"rooms/Rm_Card_Select/Rm_Card_Select.yy",},"order":7,},
     {"id":{"name":"Spr_tcW_Stunner","path":"sprites/Spr_tcW_Stunner/Spr_tcW_Stunner.yy",},"order":8,},
     {"id":{"name":"Rm_Bene_Gesserit","path":"rooms/Rm_Bene_Gesserit/Rm_Bene_Gesserit.yy",},"order":3,},
     {"id":{"name":"Spr_Spacing_Guild_Tile","path":"sprites/Spr_Spacing_Guild_Tile/Spr_Spacing_Guild_Tile.yy",},"order":1,},
@@ -49,6 +50,7 @@
     {"id":{"name":"Obj_Emperor_Room_Select","path":"objects/Obj_Emperor_Room_Select/Obj_Emperor_Room_Select.yy",},"order":2,},
     {"id":{"name":"Obj_Bene_Gesserit_Room_Select","path":"objects/Obj_Bene_Gesserit_Room_Select/Obj_Bene_Gesserit_Room_Select.yy",},"order":1,},
     {"id":{"name":"Spr_tcD_Shield","path":"sprites/Spr_tcD_Shield/Spr_tcD_Shield.yy",},"order":0,},
+    {"id":{"name":"Obj_Instance_Change","path":"objects/Obj_Instance_Change/Obj_Instance_Change.yy",},"order":7,},
     {"id":{"name":"Spr_tcW_Chaumas","path":"sprites/Spr_tcW_Chaumas/Spr_tcW_Chaumas.yy",},"order":0,},
     {"id":{"name":"Rm_Main","path":"rooms/Rm_Main/Rm_Main.yy",},"order":2,},
     {"id":{"name":"Rm_Harkonnen","path":"rooms/Rm_Harkonnen/Rm_Harkonnen.yy",},"order":5,},
@@ -79,6 +81,7 @@
     {"roomId":{"name":"Rm_Spacing_Guild","path":"rooms/Rm_Spacing_Guild/Rm_Spacing_Guild.yy",},},
     {"roomId":{"name":"Rm_Harkonnen","path":"rooms/Rm_Harkonnen/Rm_Harkonnen.yy",},},
     {"roomId":{"name":"Rm_Emperor","path":"rooms/Rm_Emperor/Rm_Emperor.yy",},},
+    {"roomId":{"name":"Rm_Card_Select","path":"rooms/Rm_Card_Select/Rm_Card_Select.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
