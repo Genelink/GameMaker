@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Bkg_Parchment","path":"sprites/Bkg_Parchment/Bkg_Parchment.yy",},"order":12,},
     {"id":{"name":"Rm_Card_Select","path":"rooms/Rm_Card_Select/Rm_Card_Select.yy",},"order":7,},
     {"id":{"name":"Spr_tcW_Stunner","path":"sprites/Spr_tcW_Stunner/Spr_tcW_Stunner.yy",},"order":8,},
     {"id":{"name":"Rm_Bene_Gesserit","path":"rooms/Rm_Bene_Gesserit/Rm_Bene_Gesserit.yy",},"order":3,},
@@ -55,6 +56,7 @@
     {"id":{"name":"Rm_Main","path":"rooms/Rm_Main/Rm_Main.yy",},"order":2,},
     {"id":{"name":"Rm_Harkonnen","path":"rooms/Rm_Harkonnen/Rm_Harkonnen.yy",},"order":5,},
     {"id":{"name":"Rm_Spacing_Guild","path":"rooms/Rm_Spacing_Guild/Rm_Spacing_Guild.yy",},"order":4,},
+    {"id":{"name":"Sprite45","path":"sprites/Sprite45/Sprite45.yy",},"order":13,},
     {"id":{"name":"Spr_tcS_Thumber","path":"sprites/Spr_tcS_Thumber/Spr_tcS_Thumber.yy",},"order":6,},
     {"id":{"name":"Obj_Atreides_Room_Select","path":"objects/Obj_Atreides_Room_Select/Obj_Atreides_Room_Select.yy",},"order":0,},
     {"id":{"name":"Spr_tcS_CheapHeroine","path":"sprites/Spr_tcS_CheapHeroine/Spr_tcS_CheapHeroine.yy",},"order":1,},
