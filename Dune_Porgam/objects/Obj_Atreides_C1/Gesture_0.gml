@@ -1,3 +1,3 @@
-global.CardSelected = Obj_Atreides_C1
+global.CardToChange = global.AC1
 
 room_goto(Rm_Card_Select)

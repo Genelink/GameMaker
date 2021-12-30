@@ -1,7 +1,7 @@
 // Example global.Freman_Cards = card [1];
 
 //Faction Numbers
-
+/*
 global.Atreides = 0;
 
 global.Harkonnen = 1;
@@ -25,4 +25,11 @@ global.Fremen_Traitors = 0;
 
 
 global.Room_Name = global.Atreides;
+
+*/
+
+
+global.AC1 = Spr_tcB_Blank
+
+global.CardToChange = false
 

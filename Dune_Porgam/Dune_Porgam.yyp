@@ -3,6 +3,7 @@
     {"id":{"name":"Bkg_Parchment","path":"sprites/Bkg_Parchment/Bkg_Parchment.yy",},"order":12,},
     {"id":{"name":"Rm_Card_Select","path":"rooms/Rm_Card_Select/Rm_Card_Select.yy",},"order":7,},
     {"id":{"name":"Spr_tcW_Stunner","path":"sprites/Spr_tcW_Stunner/Spr_tcW_Stunner.yy",},"order":8,},
+    {"id":{"name":"Obj_Creator","path":"objects/Obj_Creator/Obj_Creator.yy",},"order":10,},
     {"id":{"name":"Rm_Bene_Gesserit","path":"rooms/Rm_Bene_Gesserit/Rm_Bene_Gesserit.yy",},"order":3,},
     {"id":{"name":"Spr_Spacing_Guild_Tile","path":"sprites/Spr_Spacing_Guild_Tile/Spr_Spacing_Guild_Tile.yy",},"order":1,},
     {"id":{"name":"Spr_tcS_LasGun","path":"sprites/Spr_tcS_LasGun/Spr_tcS_LasGun.yy",},"order":10,},

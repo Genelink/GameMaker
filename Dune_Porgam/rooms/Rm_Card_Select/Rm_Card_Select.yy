@@ -24,8 +24,8 @@
   "creationCodeFile": "${project_dir}/rooms/Rm_Fremen/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_3945EB49","path":"rooms/Rm_Card_Select/Rm_Card_Select.yy",},
     {"name":"inst_472081F0","path":"rooms/Rm_Card_Select/Rm_Card_Select.yy",},
+    {"name":"inst_3945EB49","path":"rooms/Rm_Card_Select/Rm_Card_Select.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
