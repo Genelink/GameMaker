@@ -28,11 +28,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Atreides Cards",
-    "path": "folders/Objects/Factions Cards/Atreides Cards.yy",
+    "name": "Bene Gesserit Cards",
+    "path": "folders/Objects/Factions Cards/Bene Gesserit Cards.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Atreides_C1",
+  "name": "Obj_Bene_Gesserit_C4",
   "tags": [],
   "resourceType": "GMObject",
 }

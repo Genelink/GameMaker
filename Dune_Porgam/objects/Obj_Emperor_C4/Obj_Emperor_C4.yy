@@ -28,11 +28,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Atreides Cards",
-    "path": "folders/Objects/Factions Cards/Atreides Cards.yy",
+    "name": "Emperor Cards",
+    "path": "folders/Objects/Factions Cards/Emperor Cards.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Atreides_C1",
+  "name": "Obj_Emperor_C4",
   "tags": [],
   "resourceType": "GMObject",
 }

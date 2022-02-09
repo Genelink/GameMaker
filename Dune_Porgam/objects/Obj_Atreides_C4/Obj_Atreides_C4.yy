@@ -29,7 +29,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Atreides Cards",
-    "path": "folders/Objects/Atreides Cards.yy",
+    "path": "folders/Objects/Factions Cards/Atreides Cards.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_Atreides_C4",
