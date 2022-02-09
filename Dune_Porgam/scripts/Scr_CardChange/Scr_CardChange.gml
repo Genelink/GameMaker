@@ -3,14 +3,16 @@
 function Scr_CardChange(Card_Selected)
 {
 	
-	
-	room_goto_previous()
-		
-
 	if (global.CardToChange == global.AC1)
 	{
 		global.AC1 = Card_Selected
 	}
+	
+	
+	room_goto_previous()
+		
+
+	
 /*
 	else if (global.CardToChange == global.AC2)
 	{

@@ -1,2 +1,5 @@
-global.AC1 = Spr_tcB_Blank
-global.CardToChange = false
+ThisCard = "AC1"
+
+MySprite = global.AC1
+
+
