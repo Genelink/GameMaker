@@ -32,7 +32,7 @@
     "path": "folders/Objects/Factions Cards/Fremen Cards.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Emperor_C423",
+  "name": "Obj_Fremen_C4",
   "tags": [],
   "resourceType": "GMObject",
 }
