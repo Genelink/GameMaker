@@ -1,0 +1,1 @@
+room_goto(Rm_Auction_Select)

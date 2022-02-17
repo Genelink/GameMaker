@@ -1,5 +1,7 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
+/*
+
 function Scr_CardChange(Card_Selected)
 {
 	
@@ -13,7 +15,7 @@ function Scr_CardChange(Card_Selected)
 		
 
 	
-/*
+
 	else if (global.CardToChange == global.AC2)
 	{
 		global.AC2 = Card_Selected
@@ -147,5 +149,3 @@ function Scr_CardChange(Card_Selected)
 		global.SC4 = Card_Selected
 	}
 */
-
-}

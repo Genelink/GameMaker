@@ -1,5 +1,5 @@
 ThisCard = "EC3"
 
-MySprite = global.EC3
+MySprite = global.EC[3]
 
 

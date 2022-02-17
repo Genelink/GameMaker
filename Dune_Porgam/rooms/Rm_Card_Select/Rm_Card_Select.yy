@@ -15,8 +15,9 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_Home_Select","path":"objects/Obj_Home_Select/Obj_Home_Select.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.49230766,"scaleY":1.49230766,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":1088.0,"resourceVersion":"1.0","name":"inst_3945EB49","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"Obj_tcW_Chaumas","path":"objects/Obj_tcW_Chaumas/Obj_tcW_Chaumas.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.260340631,"scaleY":0.2869875,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":128.0,"resourceVersion":"1.0","name":"inst_472081F0","tags":[],"resourceType":"GMRInstance",},
-      ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Obj_tcW_Chaumas","path":"objects/Obj_tcW_Chaumas/Obj_tcW_Chaumas.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.25,"scaleY":0.25,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_472081F0","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Obj_tcB_Blank","path":"objects/Obj_tcB_Blank/Obj_tcB_Blank.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.25,"scaleY":0.25,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":208.0,"y":0.0,"resourceVersion":"1.0","name":"inst_7CB432A7","tags":[],"resourceType":"GMRInstance",},
+      ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"Bkg_Parchment","path":"sprites/Bkg_Parchment/Bkg_Parchment.yy",},"colour":4294967295,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -26,6 +27,7 @@
   "instanceCreationOrder": [
     {"name":"inst_472081F0","path":"rooms/Rm_Card_Select/Rm_Card_Select.yy",},
     {"name":"inst_3945EB49","path":"rooms/Rm_Card_Select/Rm_Card_Select.yy",},
+    {"name":"inst_7CB432A7","path":"rooms/Rm_Card_Select/Rm_Card_Select.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -49,8 +51,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Card Rooms",
+    "path": "folders/Rooms/Card Rooms.yy",
   },
   "resourceVersion": "1.0",
   "name": "Rm_Card_Select",

@@ -1,5 +1,5 @@
 ThisCard = "FC4"
 
-MySprite = global.FC4
+MySprite = global.FC[4]
 
 

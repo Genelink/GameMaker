@@ -1,5 +1,5 @@
 ThisCard = "BC1"
 
-MySprite = global.BC1
+MySprite = global.BC[1]
 
 

@@ -15,7 +15,11 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_Home_Select","path":"objects/Obj_Home_Select/Obj_Home_Select.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.98461533,"scaleY":1.98461533,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":288.0,"y":1056.0,"resourceVersion":"1.0","name":"inst_33ACA4D7","tags":[],"resourceType":"GMRInstance",},
-      ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Obj_Spacing_Guild_C1","path":"objects/Obj_Spacing_Guild_C1/Obj_Spacing_Guild_C1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.25,"scaleY":0.25,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":32.0,"resourceVersion":"1.0","name":"inst_BD0408E","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Obj_Spacing_Guild_C2","path":"objects/Obj_Spacing_Guild_C2/Obj_Spacing_Guild_C2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.25,"scaleY":0.25,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":32.0,"resourceVersion":"1.0","name":"inst_17184AA2","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Obj_Spacing_Guild_C3","path":"objects/Obj_Spacing_Guild_C3/Obj_Spacing_Guild_C3.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.25,"scaleY":0.25,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":352.0,"resourceVersion":"1.0","name":"inst_6365BCFD","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Obj_Spacing_Guild_C4","path":"objects/Obj_Spacing_Guild_C4/Obj_Spacing_Guild_C4.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.25,"scaleY":0.25,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":352.0,"resourceVersion":"1.0","name":"inst_64E71C0A","tags":[],"resourceType":"GMRInstance",},
+      ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":null,"colour":4278217471,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -24,6 +28,10 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_33ACA4D7","path":"rooms/Rm_Spacing_Guild/Rm_Spacing_Guild.yy",},
+    {"name":"inst_BD0408E","path":"rooms/Rm_Spacing_Guild/Rm_Spacing_Guild.yy",},
+    {"name":"inst_17184AA2","path":"rooms/Rm_Spacing_Guild/Rm_Spacing_Guild.yy",},
+    {"name":"inst_6365BCFD","path":"rooms/Rm_Spacing_Guild/Rm_Spacing_Guild.yy",},
+    {"name":"inst_64E71C0A","path":"rooms/Rm_Spacing_Guild/Rm_Spacing_Guild.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -47,8 +55,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Card Rooms",
+    "path": "folders/Rooms/Card Rooms.yy",
   },
   "resourceVersion": "1.0",
   "name": "Rm_Spacing_Guild",
