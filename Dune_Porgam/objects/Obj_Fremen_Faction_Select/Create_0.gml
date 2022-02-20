@@ -1,3 +1,5 @@
+ThisFaction = "Freman"
+
 if (global.FC[1] != Spr_tcB_Blank 
 and global.FC[2] != Spr_tcB_Blank 
 and global.FC[3] != Spr_tcB_Blank 

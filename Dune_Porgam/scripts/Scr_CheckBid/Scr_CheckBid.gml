@@ -15,6 +15,19 @@ function Scr_CheckBid()
 	global.Auct_F[6] = false
 	
 	
+	global.JobDone[1] = false
+
+	global.JobDone[2] = false
+
+	global.JobDone[3] = false
+
+	global.JobDone[4] = false
+
+	global.JobDone[5] = false
+
+	global.JobDone[6] = false
+	
+	
 	
 	global.BidAmount = 0
 	global.CardsGonThrough = 0

@@ -1,5 +1,7 @@
 global.Auct_F[global.CurrentCard] = ThisFaction
 
+
+
 global.CardsGonThrough += 1
 global.CurrentCard += 1
 

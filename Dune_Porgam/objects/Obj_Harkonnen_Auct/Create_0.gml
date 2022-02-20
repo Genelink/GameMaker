@@ -11,5 +11,5 @@ and global.HC[6] != Spr_tcB_Blank
 and global.HC[7] != Spr_tcB_Blank
 and global.HC[8] != Spr_tcB_Blank)
 {
-	instance_deactivate_object(Obj_Harkonnen_Faction_Select)
+	instance_deactivate_object(Obj_Harkonnen_Auct)
 }

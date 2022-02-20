@@ -1,3 +1,8 @@
-/// @description Insert description here
-// You can write your code in this editor
-room_goto(Rm_Fremen)
+global.Auct_F[global.CurrentCard] = ThisFaction
+
+
+
+global.CardsGonThrough += 1
+global.CurrentCard += 1
+
+room_goto(Rm_Auction_Main)

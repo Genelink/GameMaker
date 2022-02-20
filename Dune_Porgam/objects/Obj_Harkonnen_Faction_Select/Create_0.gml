@@ -1,3 +1,6 @@
+ThisFaction = "Harkonnen"
+
+
 if (global.HC[1] != Spr_tcB_Blank 
 and global.HC[2] != Spr_tcB_Blank 
 and global.HC[3] != Spr_tcB_Blank 

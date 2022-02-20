@@ -1,0 +1,1 @@
+Slider_y_Offset = sprite_height / 2
