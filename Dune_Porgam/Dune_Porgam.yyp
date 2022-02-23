@@ -137,6 +137,7 @@
     {"id":{"name":"Obj_SliderBar","path":"objects/Obj_SliderBar/Obj_SliderBar.yy",},"order":14,},
     {"id":{"name":"Obj_Spacing_Guild_Auct","path":"objects/Obj_Spacing_Guild_Auct/Obj_Spacing_Guild_Auct.yy",},"order":5,},
     {"id":{"name":"Scr_Harkonnen_Second_Card","path":"scripts/Scr_Harkonnen_Second_Card/Scr_Harkonnen_Second_Card.yy",},"order":0,},
+    {"id":{"name":"Obj_SliderTech","path":"objects/Obj_SliderTech/Obj_SliderTech.yy",},"order":16,},
     {"id":{"name":"Obj_Emperor_Room_Select","path":"objects/Obj_Emperor_Room_Select/Obj_Emperor_Room_Select.yy",},"order":2,},
     {"id":{"name":"Obj_Treachery_Parent","path":"objects/Obj_Treachery_Parent/Obj_Treachery_Parent.yy",},"order":2,},
     {"id":{"name":"Rm_Auction_Main","path":"rooms/Rm_Auction_Main/Rm_Auction_Main.yy",},"order":1,},
@@ -246,7 +247,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.1.0.609",
+    "IDEVersion": "2022.1.1.610",
   },
   "resourceVersion": "1.4",
   "name": "Dune_Porgam",

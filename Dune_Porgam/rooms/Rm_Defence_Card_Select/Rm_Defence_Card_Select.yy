@@ -25,7 +25,7 @@
     {"spriteId":{"name":"Bkg_Parchment","path":"sprites/Bkg_Parchment/Bkg_Parchment.yy",},"colour":4294967295,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
   "inheritLayers": false,
-  "creationCodeFile": "${project_dir}/rooms/Rm_Card_Select/RoomCreationCode.gml",
+  "creationCodeFile": "${project_dir}/rooms/Rm_Defence_Card_Select/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_3945EB49_2","path":"rooms/Rm_Defence_Card_Select/Rm_Defence_Card_Select.yy",},

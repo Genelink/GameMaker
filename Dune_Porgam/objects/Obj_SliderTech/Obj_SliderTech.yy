@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "Spr_tcB_Unknown",
-    "path": "sprites/Spr_tcB_Unknown/Spr_tcB_Unknown.yy",
+    "name": "Spr_Right",
+    "path": "sprites/Spr_Right/Spr_Right.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Obj_Treachery_Parent",
-    "path": "objects/Obj_Treachery_Parent/Obj_Treachery_Parent.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,15 +20,18 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":66,"eventType":13,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":67,"eventType":13,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Card Select",
-    "path": "folders/Objects/Card Select.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_tcB_Unknown",
+  "name": "Obj_SliderTech",
   "tags": [],
   "resourceType": "GMObject",
 }
