@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_tcS_TruthTrance",
-    "path": "sprites/Spr_tcS_TruthTrance/Spr_tcS_TruthTrance.yy",
+    "name": "Spr_tcS_WeatherControl",
+    "path": "sprites/Spr_tcS_WeatherControl/Spr_tcS_WeatherControl.yy",
   },
   "solid": false,
   "visible": true,

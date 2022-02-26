@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "Obj_Treachery_Parent",
-    "path": "objects/Obj_Treachery_Parent/Obj_Treachery_Parent.yy",
+    "name": "Obj_Treachery_Parent_Sub",
+    "path": "objects/Obj_Treachery_Parent_Sub/Obj_Treachery_Parent_Sub.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,

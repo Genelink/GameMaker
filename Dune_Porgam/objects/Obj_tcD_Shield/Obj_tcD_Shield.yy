@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "Spr_Right",
-    "path": "sprites/Spr_Right/Spr_Right.yy",
+    "name": "Spr_tcD_Shield",
+    "path": "sprites/Spr_tcD_Shield/Spr_tcD_Shield.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Obj_Treachery_Parent",
+    "path": "objects/Obj_Treachery_Parent/Obj_Treachery_Parent.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -20,18 +23,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":66,"eventType":13,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":67,"eventType":13,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Defence",
+    "path": "folders/Objects/Card Select/Defence.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_SliderTech",
+  "name": "Obj_tcD_Shield",
   "tags": [],
   "resourceType": "GMObject",
 }

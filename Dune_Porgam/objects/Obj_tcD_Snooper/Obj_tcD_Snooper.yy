@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "Spr_tcB_Blank",
-    "path": "sprites/Spr_tcB_Blank/Spr_tcB_Blank.yy",
+    "name": "Spr_tcD_Snooper",
+    "path": "sprites/Spr_tcD_Snooper/Spr_tcD_Snooper.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "Obj_Treachery_Parent_Sub",
-    "path": "objects/Obj_Treachery_Parent_Sub/Obj_Treachery_Parent_Sub.yy",
+    "name": "Obj_Treachery_Parent",
+    "path": "objects/Obj_Treachery_Parent/Obj_Treachery_Parent.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Card Select",
-    "path": "folders/Objects/Card Select.yy",
+    "name": "Defence",
+    "path": "folders/Objects/Card Select/Defence.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_tcB_Blank",
+  "name": "Obj_tcD_Snooper",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "Spr_tcB_Blank",
-    "path": "sprites/Spr_tcB_Blank/Spr_tcB_Blank.yy",
+    "name": "Spr_Special_Bar",
+    "path": "sprites/Spr_Special_Bar/Spr_Special_Bar.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Obj_Treachery_Parent_Sub",
-    "path": "objects/Obj_Treachery_Parent_Sub/Obj_Treachery_Parent_Sub.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Card Select",
-    "path": "folders/Objects/Card Select.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_tcB_Blank",
+  "name": "Obj_Special_Bar",
   "tags": [],
   "resourceType": "GMObject",
 }

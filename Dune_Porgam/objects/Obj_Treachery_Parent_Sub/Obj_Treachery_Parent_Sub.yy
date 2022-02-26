@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "Spr_tcB_Blank",
-    "path": "sprites/Spr_tcB_Blank/Spr_tcB_Blank.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Obj_Treachery_Parent_Sub",
-    "path": "objects/Obj_Treachery_Parent_Sub/Obj_Treachery_Parent_Sub.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,7 +17,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":13,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +27,7 @@
     "path": "folders/Objects/Card Select.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_tcB_Blank",
+  "name": "Obj_Treachery_Parent_Sub",
   "tags": [],
   "resourceType": "GMObject",
 }
